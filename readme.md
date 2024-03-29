@@ -1,12 +1,12 @@
-# Glossary Term - solution for Github
+# Glossary Term 
 
 ![Code Logo](code.png)
 
 ## Description
 
-Welcome to the solution Glossary Term - an example for your projects
+Welcome to the glossary solution 
 
-solution for Github
+solution for glossary 
 
 
 ## Features

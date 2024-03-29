@@ -1,0 +1,9 @@
+2024-03-29 16:57:02,528 - INFO - START glossary_term =============================================
+2024-03-29 16:57:02,528 - INFO - START glossary_term Start Time = 2024-03-29 16:57:02
+2024-03-29 16:57:02,528 - INFO - glossary_term Step 0 - Initialize the configuration file parser
+2024-03-29 16:57:02,528 - INFO - Process glossary_term Step 0 - Initializing and starting Logging Process.
+2024-03-29 16:57:02,736 - INFO - PERFORMANCE glossary_term The total process duration was:0.21
+2024-03-29 16:57:02,737 - INFO - PERFORMANCE glossary_term Stop Time = 2024-03-29 16:57:02
+2024-03-29 16:57:02,737 - INFO - PERFORMANCE glossary_term Short process duration less than 3 Seconds:0.21
+2024-03-29 16:57:02,737 - INFO - PERFORMANCE glossary_term Performance optimization is not reccomended
+2024-03-29 16:57:02,737 - INFO - END glossary_term =============================================
