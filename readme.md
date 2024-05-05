@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Glossary Term  - glossary of terms 
 glossary of terms 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Glossary Term ** - an example for your projects
 glossary of terms 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
