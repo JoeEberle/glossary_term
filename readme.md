@@ -48,5 +48,5 @@ To get started with the **Glossary Term ** solution repository, follow these ste
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](glossary_term.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](glossary_term.png)  <br>
     
