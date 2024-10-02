@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Glossary Term  - nan
-nan
+# Glossary Term  - glossary of terms 
+glossary of terms 
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Glossary Term ** - an example for your projects
 
-nan
+glossary of terms 
 
 ![Image image_filename](sample.png)
 
