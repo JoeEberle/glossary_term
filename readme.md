@@ -39,11 +39,8 @@ To get started with the **Glossary Term ** solution repository, follow these ste
  ![additional_image](glossary_term.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
